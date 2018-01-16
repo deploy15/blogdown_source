@@ -1,3 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+blogdown
+.DS_Store # if a windows user, Thumbs.db instead
+public/ # if using Netlify
 
 .Rproj.user/5DA5C9B/sources/s-978DE577/lock_file
 .Rproj.user/BB26271C/sources/s-D0B1FF75/lock_file
