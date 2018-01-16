@@ -10,30 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Applied Data Science in Health, Energy & Cybersecurity",
-    "Operational Management"
     
+    "Applied Data Science in Health, Energy & Cybersecurity.",
+    "Operational Management"
+
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "M.Sc Computer Science"
+    course = "M.Sc Computer Science"
   institution = "University of Victoria"
-  year = In View
+  year = 2019
+
 
 [[education.courses]]
-  course = "M.Sc Computing"
+   course = "M.Sc Computing"
   institution = "University of Victoria"
   year = 2018
 
+
 [[education.courses]]
-  course = "BSc in Computer Science"
+course = "BSc in Computer Science"
   institution = "University of Ibadan"
   year = 2010
+
  
 +++
 
 # Biography
-Adeshina Alani is a Down to earth Data Scientist at Data Science Studion, Institute on Aging and Longlife Health at the University of Victoria. I've used Data science framework to resolve issues related to Health, Energy and Cybersecurity. My desire is to focus more in Applied and Industria Data Science solutions.
+Adeshina Alani is a Down to earth Data Scientist at Data Science Studion, Institute on Aging and Longlife Health at the University of Victoria. I've used Data science framework to resolve issues related to Health, Energy and Cybersecurity. My desire is to focus more in Applied and Industrial Data Science solutions.
 
 
