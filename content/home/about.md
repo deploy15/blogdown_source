@@ -18,14 +18,15 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-    course = "M.Sc Computer Science"
+    course = "M.Sc. Computer Science"
   institution = "University of Victoria"
   year = 2019
+  
 
 
 [[education.courses]]
-   course = "M.Sc Computing"
-  institution = "University of Victoria"
+   course = "M.Sc. Computing (Full Dissertation)"
+  institution = "University of South Africa (UNISA)"
   year = 2018
 
 
@@ -38,6 +39,6 @@ course = "BSc in Computer Science"
 +++
 
 # Biography
-Adeshina Alani is a Down to earth Data Scientist at Data Science Studion, Institute on Aging and Longlife Health at the University of Victoria. I've used Data science framework to resolve issues related to Health, Energy and Cybersecurity. My desire is to focus more in Applied and Industrial Data Science solutions.
+Adeshina Alani is a Down to earth Data Scientist at Data Science Studio, Institute on Aging and Longlife Health at the University of Victoria. I've used Data science framework to resolve issues related to Health, Energy and Cybersecurity. My desire is to focus more in Applied and Industrial Data Science solutions.
 
 

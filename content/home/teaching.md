@@ -15,14 +15,12 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+#This is an example of using the *custom* widget to create your own homepage section.
 
-I am a teaching instructor for the following courses at University X:
+Sharing my knowledge and skill set is one of my greatest desire and i've taugh in various location like:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- Cambridge broadband Network (http://www.cbnl.com) as a Training specialist in Weat, East & Central Africa
+- Database Systems as a Teaching Assistant
+- Introduction to Systems Analysis as a Teaching Assistant
+- Requirements Engineering as a Teaching Assistant
+
