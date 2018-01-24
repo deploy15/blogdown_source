@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-#This is an example of using the *custom* widget to create your own homepage section.
+
 
 Sharing my knowledge and skill set is one of my greatest desire and i've taugh in various location like:
 
